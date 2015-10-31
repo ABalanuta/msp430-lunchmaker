@@ -8,7 +8,7 @@
 	msp430-elf-gcc
 	msp430-elf-mcu
 
-#####There is also a way to connect to the Launchpad as unpriviledged user.
+######To connect to the Launchpad as unpriviledged user.
 	
 	Simply create a new file /etc/udev/rules.d/10-msp430.rules with content:
 	
